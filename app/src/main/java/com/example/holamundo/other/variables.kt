@@ -57,7 +57,7 @@ class variables{
 
         Log.w("variable9", "Es valor Array<Int>" +(variable9 is Array<Int>) )
 
-        //variable11 = "" esta asignacion genera Error master2
+        //variable11 = "" esta asignacion genera Error master23
 
     }
 
